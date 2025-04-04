@@ -12,4 +12,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blue-dev00&show_icons=true&theme=dracula&locale=en" alt="blue-dev00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blue-dev00&theme=dark" alt="blue-dev00" /></p>
