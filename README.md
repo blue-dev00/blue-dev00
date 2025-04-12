@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm blue_dev</h1>
 <h3 align="center">A passionate full stack developer from South Korea</h3>
+<h3 align="center">깃헙 계정 관리 안함</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blue-dev00" alt="blue-dev00" /></a> </p>
 
